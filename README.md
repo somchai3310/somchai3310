@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Somchai Khakrachang
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Mustofa from Thailand, and I do content on Development.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=somchai3310)](https://github.com/anuraghazra/github-readme-stats)
+## Skills and Experience
+* 📱 VueJS
+* 📱 NuxtJS
+* 💻 HTML, CSS, JS
+
 <!--
 **somchai3310/somchai3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
