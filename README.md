@@ -8,6 +8,8 @@ I'm Mustofa from Thailand, and I do content on Development.
 * 💻 HTML, CSS, JS
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=somchai3310)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somchai3310)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **somchai3310/somchai3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
