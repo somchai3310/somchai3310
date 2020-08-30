@@ -1,5 +1,4 @@
-### Hi there 👋, Somchai Khakrachang
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Somchai Khakrachang
 
 I'm Mustofa from Thailand, and I do content on Development.
 
